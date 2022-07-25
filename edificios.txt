@@ -1,0 +1,6 @@
+aserradero 45 110 65 3 
+fabrica 110 200 120 4 
+escuela 300 201 42 3 
+yacimiento 456 120 0 2 
+mina 100 100 100 2 
+planta electrica 10 10 10 3

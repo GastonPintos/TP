@@ -1,0 +1,7 @@
+piedra 616
+metal 691
+madera 789
+plata 2
+oro 1
+diamante 3
+petroleo 7
